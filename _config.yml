@@ -1,8 +1,8 @@
 # site settings
 title: Justin Grima
-subtitle: by HTML5 UP
+subtitle:
 email: justintgrima@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: A repository of projects to explore that demonstrate my skills and abilities in the data science world.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://justingrima.github.io # the base hostname & protocol for your site
 author: Justin Grima
@@ -28,7 +28,7 @@ socials:
   Instagram: https://www.instagram.com/justintime4datascience/
   LinkedIn: https://www.linkedin.com/in/justin-grima-852297155/
   Twitter:
-  Facebook:
+  Facebook: https://www.facebook.com/justin.grima.5
   Slack:
 
 # build settings
