@@ -17,11 +17,11 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="My work"></h2>
-<p>Below I have posted the work I ocnducted during my education for</p>
+<p>Throughout my educational journey, I have had the opportunity to conduct project's that demnonstrate the many aspects of the data science profession. These are my projects for you to explore and exerience. Enjoy! </p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Data Visualisation: Queensland 2014 School Stats</h3>
+		<p>This projects used Tableau to create a dashboard using the 2014 NAPLAN data Australian government website. The target domain for the dashboard is international and Australian teachers seeking a teaching job in Queensland. The dashboard will be used by the domain to compare and identify which schools are best suited for them to apply to based on the 2014 government NAPLAN data.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
