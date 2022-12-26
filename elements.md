@@ -31,7 +31,7 @@ Stats/Dashboard1</u></p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3><u><b>Project Coming Soon!/b></u></h3>
+		<h3><u><b>Project Coming Soon!</b></u></h3>
 		<p>Loading ......</p>
 	</div>
 	<div class="4u 12u$(medium)">
