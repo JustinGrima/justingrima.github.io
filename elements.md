@@ -22,7 +22,8 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3><u><b>Data Visualisation: Queensland 2014 School Stats</b></u></h3>
 		<p>This projects used Tableau to create a dashboard using the 2014 NAPLAN data from the Australian government website. The target domain for the dashboard is international and Australian teachers seeking a teaching job in Queensland. The dashboard will be used by the domain to compare and identify which schools are best suited for them to apply to based on the 2014 government NAPLAN data. Access using this link:
-https://public.tableau.com/app/profile/justin.grima/viz/QueenslandSchoolStats/Dashboard1 </p>
+https://public.tableau.com/app/profile/justin.grima/viz/QueenslandSchool
+Stats/Dashboard1 </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
