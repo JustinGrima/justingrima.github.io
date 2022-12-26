@@ -35,12 +35,12 @@ Stats/Dashboard1</u></p>
 		<p>Loading ......</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3><u><b>Project Coming Soon!/b></u></h3>
+		<h3><u><b>Project Coming Soon!</b></u></h3>
 			<p>Loading ......</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3><u><b>Loading ......</b></u></h3>
-		<p></p>
+		<h3><u><b>Project Coming Soon!</b></u></h3>
+		<p>Loading ......</p>
 	</div>
 </div>
 
