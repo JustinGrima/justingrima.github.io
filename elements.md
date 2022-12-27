@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work Experience
-image: assets/images/Experience.png
+image: <img> assets/images/Experience.png
 nav-menu: true
 ---
 
@@ -9,7 +9,6 @@ nav-menu: true
 <div id="main" class="alt">
 
 <!-- One -->
-<img>  assets/images/Experience.png
 <section id="one">
 	<div class="inner">
 		<header class="major">
