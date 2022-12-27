@@ -2,7 +2,7 @@
 layout: post
 title: Reflection
 description: Blog posts about experiences
-image: assets/images/pic11.jpg
+image: assets/images/Reflect.png
 nav-menu: true
 ---
 
