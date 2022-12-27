@@ -21,7 +21,6 @@ nav-menu: true
 					<h3>James Cook University - Data Sciences</h3>
 				</header>
 				<p> Master's of Data Science - In progress.
-				
 				Graduate Certificate of Data Science with Distinction - 22 November 2022.</p>
 				<ul class="actions">
 				</ul>
