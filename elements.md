@@ -12,6 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
+			<img>assets/images/Experience.png</img>
 			<h1>Professional Experience</h1>
 		</header>
 
