@@ -92,7 +92,7 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="[generic.html](https://www.linkedin.com/in/justin-grima-852297155/details/certifications/)" class="button next">View all on LinkedIn</a></li>
+			<li><a href="https://www.linkedin.com/in/justin-grima-852297155/details/certifications/" class="button">View all on LinkedIn</a></li>
 		</ul>
 	</div>
 </section>
