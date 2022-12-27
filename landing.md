@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Masters of Data Sciences</h3>
+					<h3>James Cook University - Data Sciences</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="https://www.linkedin.com/in/justin-grima-852297155/details/certifications/" class="button">Learn more</a></li>
+					<li><a href="https://www.linkedin.com/in/justin-grima-852297155/details/certifications/" class="button">View on LinkedIn</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,11 +44,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Wilfrid Laurier University - General Science</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="https://www.linkedin.com/in/justin-grima-852297155/details/certifications/" class="button">Learn more</a></li>
+					<li><a href="https://www.linkedin.com/in/justin-grima-852297155/details/certifications/" class="button">View on LinkedIn</a></li>
 				</ul>
 			</div>
 		</div>
@@ -60,11 +60,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>AWS Certifications</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="[generic.html](https://www.linkedin.com/in/justin-grima-852297155/details/certifications/)" class="button">Learn more</a></li>
+					<li><a href="[generic.html](https://www.linkedin.com/in/justin-grima-852297155/details/certifications/)" class="button">View on LinkedIn</a></li>
 				</ul>
 			</div>
 		</div>
@@ -75,11 +75,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>LinkedIn Certifications</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="[generic.html](https://www.linkedin.com/in/justin-grima-852297155/details/certifications/)" class="button next">Get Started</a></li>
+			<li><a href="[generic.html](https://www.linkedin.com/in/justin-grima-852297155/details/certifications/)" class="button next">View on LinkedIn</a></li>
 		</ul>
 	</div>
 </section>
