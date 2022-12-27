@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: Projects
-landing-title: 'Projects'
+title: My Data Science Journey
+landing-title: ' My Data Science Journey'
 nav-menu: true
 description: null
 image: null
