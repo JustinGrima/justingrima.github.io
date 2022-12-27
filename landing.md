@@ -1,6 +1,6 @@
 ---
 title: Education and Certifications
-layout: Education
+layout: Landing
 description: 'A list of my education and certifications'
 image: assets/images/pic07.jpg
 nav-menu: true
