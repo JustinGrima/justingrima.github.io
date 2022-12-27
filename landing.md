@@ -20,7 +20,8 @@ nav-menu: true
 				<header class="major">
 					<h3>James Cook University - Data Sciences</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p> Master's of Data Science - In progress.
+				Graduate Certificate of Data Science with Distinction - 22 November 2022.</p>
 				<ul class="actions">
 				</ul>
 			</div>
