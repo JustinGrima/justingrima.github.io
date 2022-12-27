@@ -9,9 +9,9 @@ nav-menu: true
 <div id="main" class="alt">
 
 <!-- One -->
+<img>  assets/images/Experience.png
 <section id="one">
 	<div class="inner">
-		<img> assets/images/Experience.png </img>
 		<header class="major">
 			<h1>Professional Experience</h1>
 		</header>
