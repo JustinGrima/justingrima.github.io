@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project's
+title: Work Experience
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -16,14 +16,13 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="My work"></h2>
+<h2 id="Professional Experience"></h2>
 <p>Throughout my educational journey, I have had the opportunity to conduct project's that demnonstrate the many aspects of the data science profession. These are my projects for you to explore and exerience. Enjoy! </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3><u><b>Data Visualisation: Queensland 2014 School Stats</b></u></h3>
 		<p>This projects used Tableau to create a dashboard using the 2014 NAPLAN data from the Australian government website. The target domain for the dashboard is international and Australian teachers seeking a teaching job in Queensland. The dashboard will be used by the domain to compare and identify which schools are best suited for them to apply to based on the 2014 government NAPLAN data. Access using this link:
-<u>https://public.tableau.com/app/profile/justin.grima/viz/QueenslandSchool
-Stats/Dashboard1</u></p>
+<u>https://public.tableau.com/app/profile/justin.grima/viz/QueenslandSchoolStats/Dashboard1</u></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3><u><b>Predicting Heart Failure: A Machine Learning Comparative Investigation</b></u></h3>
