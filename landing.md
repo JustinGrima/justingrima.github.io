@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>James Cook University - Data Sciences</h3>
 				</header>
-				<p> Master's of Data Science - In progress.</p>
+				<p> Master of Data Science - In progress.</p>
 				<p>Graduate Certificate of Data Science with Distinction - November 2022</p>
 				<ul class="actions">
 				</ul>
