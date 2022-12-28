@@ -1,7 +1,7 @@
 ---
-title: Education and Certifications
+title: Education and Training
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Education and Training'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
