@@ -51,7 +51,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Certifications</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>AWS Cloud Practicioner Essentials - September 2022</p>
+				<p>Udemy: 2022 Complete Python Bootcamp - In progress</p>
 				<ul class="actions">
 				</ul>
 			</div>
@@ -66,7 +67,12 @@ nav-menu: true
 				<header class="major">
 					<h3>LinkedIn Certifications</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Data Science Foundations: Data Mining - October 2022</p>
+				<p>Statistics Foundations: 3 - August 2022</p>
+				<p>Data Visualisation for Data Analysts - June 2022</p>
+				<p>Python Functions for Data Science - February 2022</p>
+				<p>Statistics Foundations: Probability - February 2022</p>
+				<p>Data Science Foundations: Data Engineering - September 2021</p>
 				<ul class="actions">
 				<li><a href="https://www.linkedin.com/in/justin-grima-852297155/details/certifications/" class="button">View all on LinkedIn</a></li>
 				</ul>
