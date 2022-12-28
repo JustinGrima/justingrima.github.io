@@ -17,9 +17,6 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner">
-				<a href="generic.html" class="image">
-				<img src="{% link assets/images/JCU.png %}" alt="" data-position="center center" />
-				</a>
 				<header class="major">
 					<h3>James Cook University - Data Sciences</h3>
 				</header>
