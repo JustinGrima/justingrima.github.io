@@ -5,7 +5,7 @@ description: Blog posts about experiences
 image: assets/images/Reflect.png
 nav-menu: true
 ---
-
+<p>
 <b><u>Year One</u></b>
 <i>01.01.2023</i>
 There was a plan, and then things changed. For the better. 
@@ -20,4 +20,5 @@ Taking a break from platforms such as MySQL, RStudio and Python, an important, a
 Finishing off a successful year, my final course was Data Mining where I continued with RStudio and was introduced to discovering causes and interpretation of data based on different techniques for generating either one-off insights or forming the basis of a statistical model where many different techniques are used consecutively. Throughout the course, I was given numerous problems that, as data scientists, we aimed to solve in the context of data mining. Most of these problems required categorization into classification, outlier detection, clustering, or pattern recognition. The topics taught and discussed in detail were as follows: i) Bayes Classifiers; LDA, QDA and Naïve Bayes, ii) kNN and Logistic Regression, iii) Clustering Analysis, iv) Outlier Detection and PCA, and v) Basket Analysis and Recommender Systems. 
 Overall, this year’s studies have allowed me to receive a Graduate Certificate of Data Science with Distinction (Found in the Education and Training tab on my website) as I continue towards completing my Master of Data Science. As I look back to 2019, were it not for the time afforded by having to stay at home during COVID-19, I would not be where I am today, sitting here and writing this post. I am beyond grateful for the journey so far; the people I’ve met, the support I’ve received from friends, family and mentors, the overall experiences and most importantly, I am grateful for the knowledge I’ve gained. I very much love what I am doing and I can honestly say that I’ve made a good decision. It has been a great ride and without a doubt, never a dull moment. I look forward with anticipation to new courses and especially the professional employment coming up in 2023. Stay tuned !
 Thank you for taking the time to read this. Happy New Year!
+</p>
 
