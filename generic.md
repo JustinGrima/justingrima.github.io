@@ -6,8 +6,8 @@ image: assets/images/Reflect.png
 nav-menu: true
 ---
 <p>
-<b><u>Year One</u></b>
-<i>01.01.2023</i>
+Year One
+01.01.2023
 There was a plan, and then things changed. For the better. 
 Originally accepted to a Master of Secondary Education for Biology and Chemistry at Griffith University in Australia, I was excited and eager to build on my teaching experience, thinking that this is what I was meant to do. From an ESL teacher in South Korea and China I was on my way to becoming a full-fledged educator. All planned out and ready to go …… and then COVID-19!! Like for many people, life came to an abrupt halt.  The silver lining in that whole situation was time, time and the opportunity to take up some new and old hobbies, restructure my plans and to look back and reflect as to what I wanted to get out of my life. I began to realize that although I enjoyed teaching, becoming a secondary teacher wasn’t the right choice after all. It didn’t feel right and those plans began to fade away. Spending a lot of time with the few people in our ‘bubble’ including a close family friend, we started talking about other opportunities. Fast forward to today. That first conversation got me to where I am today, on my journey to becoming a Data Scientist.  After initially spending a considerable amount of time researching prospects of a career in Data Science, I decided my best option would be to obtain a Master of Data Science. Applied, accepted and so it begins…… off to Cairns Australia to begin a Master of Data Science program at James Cook University.
 During my first year in the program, I enrolled in the following seven courses: Database Systems, Data Visualisation, Statistical Methods for Data Science, Foundations for Data Science, Professional Employability, Programming and Analytics using Python and Data Mining. 
