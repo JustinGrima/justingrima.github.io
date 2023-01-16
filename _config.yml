@@ -2,7 +2,7 @@
 title: My Data World
 subtitle: by Justin Grima
 email: justintgrima@gmail.com
-description: Welcome to my page where you can get to know who I am and what I can bring to the table for you! From this website, you can explore and discover my past projects demonstrating my skills and abilities in data science, gain insight into my relevant past work experiences, read reflection pieces on my data science experiences, view my educational and training history, and access my contact details and various social media account at the bottom of the page. For a quick and easy form of communication, please message me by filling out the form at the bottom of the page. Enjoy!
+description: Welcome to my page where you can get to know who I am and what I can bring to the table for you! From this website, you can explore and discover my past projects demonstrating my skills and abilities in data science, gain insight into my relevant past work experiences, read reflection pieces on my data science experiences, view my educational and training history, and access my contact details and various social media accounts at the bottom of the page. For a quick and easy form of communication, please message me by filling out the form at the bottom of the page. Enjoy!
 baseurl: # the subpath of your site, e.g. /blog
 url: https://justingrima.github.io # the base hostname & protocol for your site
 author: Justin Grima
