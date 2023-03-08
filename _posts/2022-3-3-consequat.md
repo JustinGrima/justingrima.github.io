@@ -1,7 +1,12 @@
 ---
 layout: post
-title: Projects Coming Soon!
+title: Decrypting Customer Behaviour: Implementation of Logistic Regression to Predict Subscription Term Deposit.
 description:
-image: assets/images/Working.png
+image: assets/images/STD.png
 ---
-Loading ......
+Technology enables easy access to various products, services, entertainment, and information through the internet, making companies more competitive as they strive to acquire and retain customers. In the banking industry, competition has evolved from regional to global with “the entry of foreign banks into new markets irrespective of physical presence” while “consumers are now more informed, face lower switching costs, and are showcasing an ever-increasing set of diverse needs. The combination of these various forces has escalated the competitive forces faced by retail banks” (Neilson & Chadha, 2008)3. Due to fierce competition and the financial crisis, banks are under pressure to increase customers financial assets or risk losing them to better offers. Offering term deposit subscriptions is one possible solution which provides "a way to invest your money with an authorised deposit-taking institution (ADI) and earn a fixed rate of interest. Your money is locked away for the time that you choose (the term)” (Term Deposits - Moneysmart.gov.au, n.d.)4 and a minimum deposit amount is required. The objective of the direct marketing campaign was to offer term deposit services to customers in order to boost their financial assets, retain customers, and ensure the success of the company. This report uses the "bank-full.csv" dataset to select a suitable GLM to create, refine, train, and test the model (with high predictive power) to predict term deposit subscriptions. It also provides insights into the effectiveness of the marketing campaign, provide improvements, explore alternative marketing campaign avenues and products.
+
+[wk7_capstone_Justin_Grima.pdf](https://github.com/JustinGrima/justingrima.github.io/files/10917077/wk7_capstone_Justin_Grima.pdf)
+
+
+[Uploading wk7_capstone_assessment_Justin_Grima.Rmd…]()
