@@ -27,19 +27,6 @@ nav-menu: true
 		<h3><u><b>Coming Soon in Spring of 2023</b></u></h3>
 		<p>Working on it!</p>
 	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3><u><b>Coming soon!</b></u></h3>
-		<p>Working on it!</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3><u><b>Coming soon!</b></u></h3>
-		<p>Working on it!</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3><u><b>Coming soon!</b></u></h3>
-		<p>Working on it!</p>
-	</div>
 </div>
 
 <hr class="major" />
