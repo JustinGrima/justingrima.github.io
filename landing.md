@@ -52,8 +52,8 @@ nav-menu: true
 					<h3>Certifications</h3>
 				</header>
 				<p>AWS Cloud Practicioner Essentials - September 2022</p>
-				<p>James Cook University Academic Specialisation in Advanced Data Science from SAS</p>
-				<p>Udemy: 2022 Complete Python Bootcamp - In progress</p>
+				<p>James Cook University Academic Specialisation in Advanced Data Science 				from SAS - Jun 2023</p>
+				<p>Udemy: The Complete Python Bootcamp From Zero to Hero in Python - July 				2023</p>
 				<ul class="actions">
 				</ul>
 			</div>
