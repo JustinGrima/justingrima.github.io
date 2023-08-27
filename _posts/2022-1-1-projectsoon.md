@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating the AGI Frontier: Unveiling Transformative Trends in Data Science
+title: Navigating the AGI Frontier - Unveiling Transformative Trends in Data Science
 description: A literature review of AGI in strategic decision-making and its impact on data science.
 image: assets/images/AGI.png
 ---
