@@ -32,17 +32,19 @@ nav-menu: true
 4. I addressed inquiries related to data from project team members, providing support in various data-related tasks. This encompassed discussions such as handling missing data in datasets and assisting team members in extracting and reformatting data from sources like 'fishbase.se' and 'marinespecies.org' to align with their specific standards.</p>
 
 <p>
-<u> Greatest Challange Faced </u>
-During my internship, I encountered a significant challenge that stands out as both an important, challenging task and the one I take the most pride in overcoming. This occurred during my initial attempt to validate an incoming dataset in RStudio and subsequently integrate it into MERMAID. As with any new task, it demanded patience, practice, and a deepening grasp of the process, concepts, and domain-specific knowledge.
-
-On the validating process in RStudio, there are "packages" that someone like myself would create for others to download and use to carry out specific tasks on the platform.  In my case, I worked with a MERMAID package, enabling communication with the database for cross-referencing and formatting to MERMAID standards, ensuring acceptance of the data. The challenges encompassed several key aspects:
-
+<u> Greatest Challange Faced </u></p>
+<p>
+During my internship, I encountered a significant challenge that stands out as both an important, challenging task and the one I take the most pride in overcoming. This occurred during my initial attempt to validate an incoming dataset in RStudio and subsequently integrate it into MERMAID. As with any new task, it demanded patience, practice, and a deepening grasp of the process, concepts, and domain-specific knowledge. On the validating process in RStudio, there are "packages" that someone like myself would create for others to download and use to carry out specific tasks on the platform.  In my case, I worked with a MERMAID package, enabling communication with the database for cross-referencing and formatting to MERMAID standards, ensuring acceptance of the data. The challenges encompassed several key aspects:
+</p>
+<p>
 Firstly, I had to learn the intricacies of the MERMAID package in R, including coding syntax for establishing initial communication with the database, pulling information and data, and conducting 'dry runs' to allow MERMAID to analyze the data and provide feedback for corrections.
-
+</p>
 Secondly, acquiring a comprehensive understanding of the coral reef ecosystem domain knowledge was essential. This knowledge empowered me to effectively identify and rectify errors in the dataset to meet MERMAID's requirements. For instance, when MERMAID flagged an unfamiliar species, I had to leverage external resources and converse with other project team members with extensive domain knowledge, and my acquired domain knowledge to implement alternative names that would be accepted.
-
+</p>
+<p>
 Lastly, I had to grasp the specific formats that MERMAID mandated for variables like dates, emails, and depth ranges.
-
+</p>
+<p>
 Through rigorous research, leveraging my existing data science knowledge, and consulting with experienced project team members possessing extensive domain expertise, I conducted numerous iterations of trial and error. Eventually, I achieved success in fully validating the dataset in R, aligning it with MERMAID's standards. This milestone enabled the seamless transfer of the data into MERMAID for further validation and subsequent integration into the database. This experience stands as a testament to the growth and proficiency gained throughout my internship.
 </p>
 Overall, this internship provided an exhilarating and challenging experience. It offered valuable real-world exposure and deepened my understanding of the responsibilities I can anticipate as a future data scientist in my career.
