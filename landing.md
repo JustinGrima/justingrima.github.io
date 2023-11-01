@@ -69,9 +69,9 @@ nav-menu: true
 				<header class="major">
 					<h3>LinkedIn Certifications</h3>
 				</header>
-				<p>Machine Learning with Scikit-Learn</p>
-				<p>Numpy Essential Training: Foundations of NumPy</p>
-				<p>Python Essential Training</p>
+				<p>Machine Learning with Scikit-Learn - October 2023</p>
+				<p>Numpy Essential Training: Foundations of NumPy - October 2023</p>
+				<p>Python Essential Training - October 2023</p>
 				<p>Data Science Foundations: Data Mining - October 2022</p>
 				<p>Statistics Foundations: 3 - August 2022</p>
 				<p>Data Visualisation for Data Analysts - June 2022</p>
