@@ -39,6 +39,7 @@ During my internship, I encountered a significant challenge that stands out as b
 <p>
 Firstly, I had to learn the intricacies of the MERMAID package in R, including coding syntax for establishing initial communication with the database, pulling information and data, and conducting 'dry runs' to allow MERMAID to analyze the data and provide feedback for corrections.
 </p>
+<p>
 Secondly, acquiring a comprehensive understanding of the coral reef ecosystem domain knowledge was essential. This knowledge empowered me to effectively identify and rectify errors in the dataset to meet MERMAID's requirements. For instance, when MERMAID flagged an unfamiliar species, I had to leverage external resources and converse with other project team members with extensive domain knowledge, and my acquired domain knowledge to implement alternative names that would be accepted.
 </p>
 <p>
@@ -47,6 +48,7 @@ Lastly, I had to grasp the specific formats that MERMAID mandated for variables 
 <p>
 Through rigorous research, leveraging my existing data science knowledge, and consulting with experienced project team members possessing extensive domain expertise, I conducted numerous iterations of trial and error. Eventually, I achieved success in fully validating the dataset in R, aligning it with MERMAID's standards. This milestone enabled the seamless transfer of the data into MERMAID for further validation and subsequent integration into the database. This experience stands as a testament to the growth and proficiency gained throughout my internship.
 </p>
+<p>
 Overall, this internship provided an exhilarating and challenging experience. It offered valuable real-world exposure and deepened my understanding of the responsibilities I can anticipate as a future data scientist in my career.
 		</p>
 	</div>
