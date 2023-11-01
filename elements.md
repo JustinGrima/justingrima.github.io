@@ -32,6 +32,7 @@ nav-menu: true
 4. I addressed inquiries related to data from project team members, providing support in various data-related tasks. This encompassed discussions such as handling missing data in datasets and assisting team members in extracting and reformatting data from sources like 'fishbase.se' and 'marinespecies.org' to align with their specific standards.</p>
 
 <p>
+<u> Greatest Challange Faced </u>
 During my internship, I encountered a significant challenge that stands out as both an important, challenging task and the one I take the most pride in overcoming. This occurred during my initial attempt to validate an incoming dataset in RStudio and subsequently integrate it into MERMAID. As with any new task, it demanded patience, practice, and a deepening grasp of the process, concepts, and domain-specific knowledge.
 
 On the validating process in RStudio, there are "packages" that someone like myself would create for others to download and use to carry out specific tasks on the platform.  In my case, I worked with a MERMAID package, enabling communication with the database for cross-referencing and formatting to MERMAID standards, ensuring acceptance of the data. The challenges encompassed several key aspects:
