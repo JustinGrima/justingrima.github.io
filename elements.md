@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="Professional Experience"></h2>
-<p>Under this internship, I will have the completed to completed over 200 hours of professional work experience. The project I worked on required me to  apply my knowledge and skills to real-world data science situations. These are my experiences for you to explore and discover. Enjoy! </p>
+<p>Under this internship, I will have completed over 200 hours of professional work experience. The project I worked on required me to  apply my knowledge and skills to real-world data science situations. These are my experiences for you to explore and discover. Enjoy! </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3><u><b>Data Scientist at Australian Research Council (ARC) Centre of Excellence for Coral Reef Studies</b></u></h3>
