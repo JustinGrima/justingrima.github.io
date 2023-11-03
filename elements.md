@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work Experience
+title: My Internship Experience
 image: assets/images/Experience.png
 nav-menu: true
 ---
