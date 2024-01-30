@@ -7,11 +7,11 @@ baseurl: # the subpath of your site, e.g. /blog
 url: https://justingrima.github.io # the base hostname & protocol for your site
 author: Justin Grima
 street_address:
-city: Cairns
+city: Brisbane
 state: QLD
-zip_code: 4870
-country: Australia
-phone: +61 434 006 852
+zip_code: 4000
+country: Australia, EU and Canadian citizens with work authorization in Australia. Interested in opportunities in these locations and the United States. Willing to relocate with covered expenses.
+phone: <p>+61 434 006 852</p> <p>+1 647 920 7213</p>
 
 # homepage tiles
 tiles-source: Justin Grima # accepts "posts" or "pages"
