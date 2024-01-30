@@ -69,6 +69,8 @@ nav-menu: true
 				<header class="major">
 					<h3>LinkedIn Certifications</h3>
 				</header>
+				<p>AWS Certified Solutions Architect- Associate - January 2024</p>
+				<p>AWS for Developers: Identity Access Management (IAM) - January 2024</p>
 				<p>Machine Learning with Scikit-Learn - October 2023</p>
 				<p>Numpy Essential Training: Foundations of NumPy - October 2023</p>
 				<p>Python Essential Training - October 2023</p>
