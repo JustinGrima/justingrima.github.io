@@ -52,6 +52,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Certifications</h3>
 				</header>
+				<p>AWS Academy Graduate: AWS Academy Cloud Foundations - February 2023</p>
 				<p>AWS Cloud Practitioner Essentials - September 2022</p>
 				<p>James Cook University Academic Specialisation in Advanced Data Science from SAS - Jun 2023</p>
 				<p>The Complete Python Bootcamp From Zero to Hero in Python from Udemy- July 2023</p>
