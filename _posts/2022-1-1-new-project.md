@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Coming Soon!
+title: More Projects Coming Soon!
 description:
 image: assets/images/Working.png
 ---
