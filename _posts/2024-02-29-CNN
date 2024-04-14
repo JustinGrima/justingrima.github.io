@@ -16,4 +16,5 @@ The project culminates in the selection of the best-performing model, Model 10, 
 
 While acknowledging limitations, such as dataset size and computational constraints, the project emphasizes the importance of continual exploration and optimization in CNN architecture design. By sharing insights and methodologies, this project contributes to the ongoing pursuit of advancing CNNs for soil image classification and encourages further exploration in the field.
 
-Report: 
+Report: assets/A3_Justin_Grima.pdf
+Python Code: assets/A3_Justin_Grima.ipynb
