@@ -57,6 +57,7 @@ nav-menu: true
 				<p>AWS Cloud Practitioner Essentials - September 2022</p>
 				<p>James Cook University Academic Specialisation in Advanced Data Science from SAS - Jun 2023</p>
 				<p>The Complete Python Bootcamp From Zero to Hero in Python from Udemy- July 2023</p>
+				<p> Python for Data Science Machine Learning Bootcamp - July 2025</p>
 				<ul class="actions">
 				</ul>
 			</div>
